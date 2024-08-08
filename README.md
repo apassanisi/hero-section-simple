@@ -5,7 +5,7 @@
 
   <div style="max-width: 75px;">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f9e8707e-bf6c-459a-bc4e-9ca72755e720/deploy-status)](https://app.netlify.com/sites/apassanisi-profile-card/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0190a966-1980-43c7-9f7a-8a44dc54ef5a/deploy-status)](https://app.netlify.com/sites/apassanisi-hero-section-simple/deploys)
 
   </div>
   </p>
